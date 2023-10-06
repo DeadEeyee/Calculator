@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.AssemblyInfo.cs
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\.Net\bin\Debug\net7.0\.Net.exe
+C:\Users\PC\Desktop\.Net\bin\Debug\net7.0\.Net.deps.json
+C:\Users\PC\Desktop\.Net\bin\Debug\net7.0\.Net.runtimeconfig.json
+C:\Users\PC\Desktop\.Net\bin\Debug\net7.0\.Net.dll
+C:\Users\PC\Desktop\.Net\bin\Debug\net7.0\.Net.pdb
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.dll
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\refint\.Net.dll
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.pdb
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\.Net.genruntimeconfig.cache
+C:\Users\PC\Desktop\.Net\obj\Debug\net7.0\ref\.Net.dll
